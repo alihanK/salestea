@@ -1,16 +1,9 @@
 # salestea
 
-A new Flutter project.
+Flutter provider sales app
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![teashopmainpage](https://github.com/alihanK/salestea/assets/82571528/8c03cb41-9646-4799-8dd4-0339978d8bd3)
+![teashopdetails](https://github.com/alihanK/salestea/assets/82571528/d2bf6257-aae5-4d71-a438-5d2f789c239a)
+![teashopaddcartpagedisplaytoast](https://github.com/alihanK/salestea/assets/82571528/a6c2fdff-a0b4-44fa-b5d4-1f211acb9805)
+![cartpage](https://github.com/alihanK/salestea/assets/82571528/e7e8cd02-e4ff-4a93-909e-3f32f6f05699)
